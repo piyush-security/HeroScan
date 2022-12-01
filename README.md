@@ -1,5 +1,5 @@
 # HeroScan
-All-in-One Enumerator 
+The All-in-One Enumerator 
 
 - - - 
 
