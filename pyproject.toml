@@ -2,7 +2,7 @@
 name = "HeroScan"
 version = "2.0.29"
 description = "A multi-threaded network reconnaissance tool which performs automated enumeration of services."
-authors = ["Tib3rius"]
+authors = ["P1YUSH"]
 license = "GNU GPL v3"
 exclude = ["HeroScan.py"]
 packages = [
